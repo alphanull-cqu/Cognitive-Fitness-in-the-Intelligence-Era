@@ -4,6 +4,12 @@
 
 **郭尚伟 编著**
 
+<p align="center">
+  <a href="Cognitive-Fitness-in-the-Intelligence-Era.pdf">
+    <img src="assets/cover.png" alt="《智能时代下的认知体能》封面，郭尚伟编著" width="360">
+  </a>
+</p>
+
 > 当越来越多的任务可以交给AI完成，人为什么仍要学习，又该怎样成长？
 
 **[阅读书籍 PDF](Cognitive-Fitness-in-the-Intelligence-Era.pdf)** · **[下载阅读版](Cognitive-Fitness-in-the-Intelligence-Era.pdf?raw=true)**
